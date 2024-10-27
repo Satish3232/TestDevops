@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 📄 Know about my experiences https://www.linkedin.com/in/satishsahu3232/
 
-com.Entrata project I used Selenium with java Junit and maven framework for performing 5 test case I used BaseClass.java to Launching browser
+com.Entrata project I used Selenium with JAVA. the TestNG framework for performing test case.
 
 Member Login functionlaty
 
